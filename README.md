@@ -34,10 +34,6 @@ This project is a frontend-only clone of the Disney+ user interface, developed t
 
 ---
 
-## 🚀 Getting Started
-
-To run this project locally:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/disney-ui-clone.git
+Feel free to customize this README further to align with your personal branding and the specific details of your project. If you need assistance with any particular section or have other queries, don't hesitate to ask!
+::contentReference[oaicite:15]{index=15}
+ 
